@@ -1,0 +1,36 @@
+.rgb {
+    margin-left: 20px;
+}
+
+#rgbee {
+    margin-left: 20px;
+}
+
+.rgbee {
+    margin-top: 20px;
+}
+
+#rgbeej {
+    margin-left: 20px;
+}
+
+#leftarion {
+    width: 200px;
+    /* LC width */
+    right: 200px;
+    /* LC width */
+    margin-left: 1%;
+}
+
+#center {
+    width: 90%;
+}
+
+body {
+    min-width: 550px;
+}
+
+*html #left {
+    left: 150px;
+    /* RC width */
+}
